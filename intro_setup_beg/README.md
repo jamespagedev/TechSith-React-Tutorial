@@ -19,4 +19,4 @@ Here is an example of what you should see after running a test...
 
 - (GET) Test Run Example
 
-  ![GET Console Log](public/img/test_run_example.jpg?raw=true 'Title')
+  ![GET Test Run Example](public/img/test_run_example.jpg?raw=true 'Title')
