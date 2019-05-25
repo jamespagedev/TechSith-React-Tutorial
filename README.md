@@ -3,12 +3,19 @@ Projects following along with TechSith Tutorials
 
 Note: These projects are written in the following platform of Windows 7. I'm going to assume developers know how to recognize a windows 7 command, and are able to look up how to execute the commands on their own platform
 
-Note2: assuming you have react application installed after following the first project/video, the rest of the projects will assume you already have it installed.
+Note2: Assuming you have react application installed after following the first project/video, the rest of the projects will assume you already have it installed.
+
+Note3: For each project (with the exception of installing the react app package globally), I am using yarn instead of npm. So many of the commands I use in the readme(s) will be "yarn" (and assuming you have yarn installed)
 
 ## Entire Series:
 > https://www.youtube.com/watch?v=bUTsVY6VUQA&list=PL7pEw9n3GkoWkHCQsfBh77UP4nc8lvTbS&index=1
 
 * React JS Introduction and Setup for Absolute Beginners:
   * https://www.youtube.com/watch?v=bUTsVY6VUQA
+  * Project Directory: intro_setup_beg
 * JSX intro:
   * https://www.youtube.com/watch?v=yc8fg7gWbBA
+  * Project Directory: jsx_intro
+* React Class vs Functional Component:
+  * https://www.youtube.com/watch?v=uGgPINlKqBs
+  * Project Directory: components_class_vs_functional

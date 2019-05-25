@@ -1,6 +1,6 @@
 # JSX intro
 
-> video -> https://www.youtube.com/watch?v=yc8fg7gWbBA
+> video: https://www.youtube.com/watch?v=yc8fg7gWbBA
 
 # Use this site to start writing some JSX: https://babeljs.io/repl
 Note: this is why it is going to be hard to do JSX without using react
