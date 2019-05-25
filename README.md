@@ -22,3 +22,6 @@ Note3: For each project (with the exception of installing the react app package 
 * State and Props | setState with Virtual DOM
   * https://www.youtube.com/watch?v=DJtI3Pogd88
   * Project Directory: props_states_setState
+* Events And Two-way Data Binding
+  * https://www.youtube.com/watch?v=BWl9bw_nbbs
+  * Project Directory: events_two_way_data_binding
