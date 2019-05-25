@@ -28,3 +28,6 @@ Note3: For each project (with the exception of installing the react app package 
 * Components Communicate
   * https://www.youtube.com/watch?v=dyL99ACQfsM
   * Project Directory: components_communicate
+* lists and keys
+  * https://www.youtube.com/watch?v=tJYBMSuOX3s
+  * Project Directory: list_update_delete_unique_keys
