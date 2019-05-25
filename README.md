@@ -19,3 +19,6 @@ Note3: For each project (with the exception of installing the react app package 
 * React Class vs Functional Component:
   * https://www.youtube.com/watch?v=uGgPINlKqBs
   * Project Directory: components_class_vs_functional
+* State and Props | setState with Virtual DOM
+  * https://www.youtube.com/watch?v=DJtI3Pogd88
+  * Project Directory: props_states_setState
