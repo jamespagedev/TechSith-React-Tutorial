@@ -17,6 +17,4 @@
 
 Here is an example of what you should see after running a test...
 
-- (GET) Test Run Example
-
-  ![GET Test Run Example](public/img/test_run_example.jpg?raw=true 'Title')
+![GET Test Run Example](my-beautiful-react-app/public/img/test_run_example.png?raw=true 'Title')
