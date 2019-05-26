@@ -31,3 +31,6 @@ Note3: For each project (with the exception of installing the react app package 
 * lists and keys
   * https://www.youtube.com/watch?v=tJYBMSuOX3s
   * Project Directory: list_update_delete_unique_keys
+* React Fragments
+  * https://www.youtube.com/watch?v=UMo9_W8lPbs
+  * Project Directory: react_fragments
