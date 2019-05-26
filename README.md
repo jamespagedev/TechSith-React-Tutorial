@@ -34,3 +34,6 @@ Note3: For each project (with the exception of installing the react app package 
 * React Fragments
   * https://www.youtube.com/watch?v=UMo9_W8lPbs
   * Project Directory: react_fragments
+* Component Lifecycle Hooks
+  * https://www.youtube.com/watch?v=kVyrzn29QPk
+  * Project Directory: component_lifecycle_hooks
